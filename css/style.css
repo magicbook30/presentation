@@ -536,7 +536,7 @@ a:hover {
     background: #018888;/*0ca1a1;*/
     opacity: 1;
     font-size: 20px;
-    color: #4f7e7e;
+    color: #76dbef;
     border-radius: 100px;
 }
 
@@ -620,7 +620,7 @@ a:hover {
 .buy_bt a {
     width: 100%;
     font-size: 16px;
-    color: #1e2851;
+    color: #018888;
     background-color: transparent;
     text-align: right;
     font-weight: bold;
@@ -675,7 +675,7 @@ a:hover {
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-prev:hover {
     color: #76dbef;
-    background-color: #3e54ac;
+    background-color: #4f7e7e;
 }
 
 
