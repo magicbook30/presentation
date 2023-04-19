@@ -170,7 +170,7 @@ img {
 }
 
 .form-control:focus {
-    border-color: #ecf2ff !important;
+    border-color: #76dbef !important;
     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
 
@@ -262,6 +262,9 @@ button {
     color: #f26522;
 }
 
+.additional {
+    background-color: #76dbef;
+}
 
 /* header top section end */
 
@@ -315,7 +318,7 @@ button {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 20px;
-    color: #ecf2ff;
+    color: #76dbef;
     display: block;
     transition: 0.3s;
 }
@@ -343,7 +346,7 @@ button {
 
 .toggle_icon {
     cursor: pointer;
-    color: #ecf2ff;
+    color: #76dbef;
     order: 2;
 }
 
@@ -365,15 +368,15 @@ button {
 }
 
 .btn-secondary {
-    color: #ecf2ff;
-    background-color: #30302e;
-    border-color: #30302e;
+    color: #76dbef;
+    background-color: #018888;
+    border-color: #018888;
 }
 
 .btn-secondary:hover {
-    color: #ecf2ff;
-    background-color: #30302e;
-    border-color: #30302e;
+    color: #76dbef;
+    background-color: #018888;
+    border-color: #018888;
 }
 
 .show>.btn-secondary.dropdown-toggle:focus {
@@ -429,14 +432,14 @@ button {
 .login_menu li {
     float: left;
     font-size: 16px;
-    color: #ecf2ff;
+    color: #76dbef;
     text-transform: uppercase;
     padding-left: 10px;
     padding-top: 4px;
 }
 
 .login_menu li a {
-    color: #ecf2ff;
+    color: #76dbef;
 }
 
 .login_menu li a:hover {
@@ -453,7 +456,7 @@ button {
 .lang_box {
     display: flex;
     float: right;
-    background: #ecf2ff;
+    background: #76dbef;
     border-radius: 5px;
     margin-right: 20px;
 }
@@ -485,8 +488,8 @@ a:hover {
 
 .banner_taital {
     width: 100%;
-    font-size: 60px;
-    color: #1e2851;
+    font-size: 50px;
+    color: #018888;/*#1e2851;*/
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
@@ -502,8 +505,8 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ecf2ff;
-    background-color: #252525;
+    color: #76dbef;
+    background-color: #0ca1a1;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -512,8 +515,8 @@ a:hover {
 }
 
 .buynow_bt a:hover {
-    background-color: #6e82cf;
-    color: #ecf2ff;
+    background-color: #4f7e7e;
+    color: #76dbef;
 }
 
 #my_slider a.carousel-control-next {
@@ -530,10 +533,10 @@ a:hover {
 #my_slider .carousel-control-prev {
     width: 45px;
     height: 45px;
-    background: #6e82cf;
+    background: #018888;/*0ca1a1;*/
     opacity: 1;
     font-size: 20px;
-    color: #000;
+    color: #4f7e7e;
     border-radius: 100px;
 }
 
@@ -541,7 +544,8 @@ a:hover {
 #my_slider .carousel-control-next:hover,
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-prev:hover {
-    color: #ecf2ff;
+    color: #76dbef;
+    background: #4f7e7e;
 }
 
 
@@ -559,7 +563,7 @@ a:hover {
 .items_taital {
     width: 100%;
     font-size: 40px;
-    color: #30302e;
+    color: #018888;
     text-align: center;
     font-weight: bold;
 }
@@ -571,17 +575,17 @@ a:hover {
 
 .box_main {
     width: 100%;
-    background-color: #ecf2ff;
+    background-color: #76dbef/*#76dbef*/;
     height: auto;
     padding: 20px;
-    box-shadow: 0px 0 30px 10px #f0f0f0;
+    box-shadow: 0px 0 20px 20px #68c3d5;
     margin-bottom: 20px;
 }
 
 .notebooks_text {
     width: 100%;
     font-size: 20px;
-    color: #30302e;
+    color: #018888;
     text-align: center;
     font-weight: bold;
     padding-bottom: 5px;
@@ -660,17 +664,17 @@ a:hover {
 #main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
+    background-color: #018888;
     opacity: 1;
     font-size: 30px;
-    color: #ecf2ff;
+    color: #76dbef;
 }
 
 #main_slider .carousel-control-next:focus,
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-prev:hover {
-    color: #ecf2ff;
+    color: #76dbef;
     background-color: #3e54ac;
 }
 
@@ -701,17 +705,17 @@ a:hover {
 #accessories_main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
+    background-color: #018888;
     opacity: 1;
     font-size: 30px;
-    color: #ecf2ff;
+    color: #76dbef;
 }
 
 #accessories_main_slider .:focus,
 #accessories_main_slider .carousel-control-next:hover,
 #accessories_main_slider .carousel-control-prev:focus,
 #accessories_main_slider .carousel-control-prev:hover {
-    color: #ecf2ff;
+    color: #76dbef;
     background-color: #3e54ac;
 }
 
@@ -748,17 +752,17 @@ a:hover {
 #jewellery_main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
+    background-color: #018888;
     opacity: 1;
     font-size: 30px;
-    color: #ecf2ff;
+    color: #76dbef;
 }
 
 #jewellery_main_slider .carousel-control-next:focus,
 #jewellery_main_slider .carousel-control-next:hover,
 #jewellery_main_slider .carousel-control-prev:focus,
 #jewellery_main_slider .carousel-control-prev:hover {
-    color: #ecf2ff;
+    color: #76dbef;
     background-color: #3e54ac;
 }
 
@@ -818,7 +822,7 @@ a:hover {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #3e54ac;
+    background-color: #01c5c4;
     height: auto;
 }
 
@@ -832,14 +836,14 @@ a:hover {
     margin: 0 auto;
     text-align: center;
     display: flex;
-    border-bottom: 1px solid #ecf2ff !important;
+    border-bottom: 1px solid #76dbef !important;
 }
 
 .mail_bt {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #ecf2ff;
+    color: #76dbef;
     background-color: transparent;
     padding: 5px 0px 5px 0px;
     height: 60px;
@@ -847,14 +851,14 @@ a:hover {
 }
 
 input.mail_bt::placeholder {
-    color: #ecf2ff;
+    color: #018888;
 }
 
 .subscribe_bt {
     width: 30%;
     float: right;
     font-size: 16px;
-    color: #1e2851;
+    color: #018888;
     background-color: transparent;
     padding: 20px 0px 5px 0px;
     border-radius: 30px;
@@ -865,11 +869,11 @@ input.mail_bt::placeholder {
 }
 
 .subscribe_bt a {
-    color: #1e2851;
+    color: #018888;
 }
 
 .subscribe_bt a:hover {
-    color: #ecf2ff;
+    color: #018888;
 }
 
 .footer_menu {
@@ -909,12 +913,12 @@ input.mail_bt::placeholder {
 .location_main {
     float: left;
     font-size: 16px;
-    color: #ecf2ff;
+    color: #018888;
     padding: 30px 30px 30px 30px;
 }
 
 .location_main a {
-    color: #ecf2ff;
+    color: #018888;
 }
 
 .location_main a:hover {
@@ -930,21 +934,21 @@ input.mail_bt::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #3e54ac;
+    background-color: #01c5c4;
     height: auto;
 }
 
 .copyright_text {
     width: 100%;
     float: left;
-    color: #ecf2ff;
+    color: #018888;
     text-align: center;
     font-size: 16px;
     margin: 20px 0px;
 }
 
 .copyright_text a {
-    color: #ecf2ff;
+    color: #018888;
 }
 
 .copyright_text a:hover {

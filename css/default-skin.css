@@ -203,7 +203,7 @@
 .pswp__share-tooltip {
   z-index: 1620;
   position: absolute;
-  background: #ecf2ff;
+  background: #76dbef;
   top: 56px;
   border-radius: 2px;
   display: block;
@@ -269,7 +269,7 @@ a.pswp__share--facebook:before {
   top: -12px;
   right: 15px;
   border: 6px solid transparent;
-  border-bottom-color: #ecf2ff;
+  border-bottom-color: #76dbef;
   -webkit-pointer-events: none;
   -moz-pointer-events: none;
   pointer-events: none;
@@ -277,7 +277,7 @@ a.pswp__share--facebook:before {
 
 a.pswp__share--facebook:hover {
   background: #3E5C9A;
-  color: #ecf2ff;
+  color: #76dbef;
 }
 
 a.pswp__share--facebook:hover:before {
@@ -286,7 +286,7 @@ a.pswp__share--facebook:hover:before {
 
 a.pswp__share--twitter:hover {
   background: #55ACEE;
-  color: #ecf2ff;
+  color: #76dbef;
 }
 
 a.pswp__share--pinterest:hover {
@@ -312,7 +312,7 @@ a.pswp__share--download:hover {
   height: 44px;
   font-size: 13px;
   line-height: 44px;
-  color: #ecf2ff;
+  color: #76dbef;
   opacity: 0.75;
   padding: 0 10px;
 }
@@ -437,7 +437,7 @@ a.pswp__share--download:hover {
   box-sizing: border-box;
   width: 14px;
   height: 14px;
-  border: 2px solid #ecf2ff;
+  border: 2px solid #76dbef;
   border-radius: 50%;
   border-left-color: transparent;
   border-bottom-color: transparent;

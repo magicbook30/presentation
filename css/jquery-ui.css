@@ -901,7 +901,7 @@ body .ui-tooltip {
 }
 .ui-widget-content {
 	border: 1px solid #dddddd;
-	background: #ecf2ff;
+	background: #76dbef;
 	color: #333333;
 }
 .ui-widget-content a {
@@ -982,17 +982,17 @@ a.ui-button:active,
 	border: 1px solid #003eff;
 	background: #007fff;
 	font-weight: normal;
-	color: #ecf2ff;
+	color: #76dbef;
 }
 .ui-icon-background,
 .ui-state-active .ui-icon-background {
 	border: #003eff;
-	background-color: #ecf2ff;
+	background-color: #76dbef;
 }
 .ui-state-active a,
 .ui-state-active a:link,
 .ui-state-active a:visited {
-	color: #ecf2ff;
+	color: #76dbef;
 	text-decoration: none;
 }
 
@@ -1002,12 +1002,12 @@ a.ui-button:active,
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
 	border: 1px solid #dad55e;
-	background: #ecf2ffa90;
+	background: #76dbefa90;
 	color: #777620;
 }
 .ui-state-checked {
 	border: 1px solid #dad55e;
-	background: #ecf2ffa90;
+	background: #76dbefa90;
 }
 .ui-state-highlight a,
 .ui-widget-content .ui-state-highlight a,
