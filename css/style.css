@@ -584,11 +584,10 @@ a:hover {
 
 .notebooks_text {
     width: 100%;
-    font-size: 20px;
+    font-size: 22px;
     color: #018888;
     text-align: center;
     font-weight: bold;
-    padding-bottom: 5px;
 }
 
 .price_text {
@@ -615,11 +614,12 @@ a:hover {
     float: left;
     width: 100%;
     text-align: center;
+    font-weight: 400;
 }
 
 .buy_bt a {
     width: 100%;
-    font-size: 16px;
+    font-size: 18px;
     color: #018888;
     background-color: transparent;
     text-align: right;

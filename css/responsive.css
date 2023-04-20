@@ -185,6 +185,7 @@
     }
     .banner_taital {
         font-size: 50px;
+        padding-top: 10px;
     }
     #main_slider a.carousel-control-next {
         right: 40px;
@@ -299,7 +300,7 @@
         min-height: 0;
     }
     .notebooks_text {
-        font-size: 14px;
+        font-size: 20px;
     }
     .price_text {
         font-size: 14px
